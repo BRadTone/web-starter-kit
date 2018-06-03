@@ -1,8 +1,10 @@
 
-# [web-starter-kit](https://github.com/BRadTone/web-starter-kit) fork, adjusted for personal usage
+## Boilerplate for smal web projects. Quickstarted with configured gulp bundler.
+
+# It is [web-starter-kit](https://github.com/BRadTone/web-starter-kit) fork, adjusted for personal usage
 Install : 
 ```javascript
-yarn / npm install
+npm install
 ```
 Run project: 
 ```javascript
